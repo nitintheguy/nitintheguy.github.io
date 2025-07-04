@@ -160,7 +160,7 @@ if(!showContent) return;
     <h1 className='text-[10rem] leading-none ml-20'>Theft</h1>
     <h1 className='text-[10rem] leading-none -ml-40'>Auto</h1>
   </div>
-    <img className='character absolute left-1/2 -translate-x-1/2 -translate-y-1/2 scale-[2.5] rotate-[-20deg] z-[5] max-w-[40%] max-h-[60vh]' src="./girl.png"/>
+    <img className='character absolute left-1/2 -translate-x-1/2 scale-[2.5] rotate-[-20deg] z-[5] max-w-[40%] max-h-[60vh]' src="./girl.png"/>
   
   
   
